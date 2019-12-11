@@ -1,3 +1,4 @@
 # DS_ML_Survey_2019
 Tell a data story about a subset of the data science community represented in this survey, through a combination of both narrative text and data exploration.
-A “story” could be defined any number of ways, and that’s deliberate. The challenge is to deeply explore (through data) the impact, priorities, or concerns of a specific group of data science and machine learning practitioners. That group can be defined in the macro (for example: anyone who does most of their coding in Python) or the micro (for example: female data science students studying machine learning in masters programs). This is an opportunity to be creative and tell the story of a community you identify with or are passionate about!
+This survey comes from information collected from some Kaggle users. These respondents are 19,717.
+Our “story” has been focused on the respondents (without forgetting the others) who perform at least one machine learning task (among those listed in survey) because we are talking about data science and machine learning, so it will be essential for us to rely on them. Here we have 9,226 respondents. 
